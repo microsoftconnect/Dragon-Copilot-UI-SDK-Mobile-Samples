@@ -70,7 +70,7 @@ The SDK version is managed in the Gradle version catalog file:
 gradle/libs.versions.toml
 ```
 
-You can find all available versions on [Maven Central](https://central.sonatype.com/artifact/com.microsoft.dragoncopilot/embedded-ui/5.0.0/versions) or the [Dragon-Copilot-UI-SDK-Android Releases page](https://github.com/microsoftconnect/Dragon-Copilot-UI-SDK-Android/releases).
+You can find all available versions on [Maven Central](https://central.sonatype.com/artifact/com.microsoft.dragoncopilot/embedded-ui/6.0.0/versions) or the [Dragon-Copilot-UI-SDK-Android Releases page](https://github.com/microsoftconnect/Dragon-Copilot-UI-SDK-Android/releases).
 
 Find the `embedded-ui` version entry under `[versions]`:
 

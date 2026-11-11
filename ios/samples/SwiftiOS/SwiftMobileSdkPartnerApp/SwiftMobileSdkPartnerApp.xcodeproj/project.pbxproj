@@ -377,7 +377,7 @@
 			repositoryURL = "https://github.com/microsoftconnect/Dragon-Copilot-UI-SDK-iOS";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 5.0.0;
+				minimumVersion = 6.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

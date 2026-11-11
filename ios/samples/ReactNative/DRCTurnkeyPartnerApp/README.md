@@ -114,6 +114,7 @@ brew install nvm
 ### Add Embedded Mobile SDK dependencies
 1. In Xcode, select the project and navigate to **Package Dependencies**.
 2. Add https://github.com/microsoftconnect/Dragon-Copilot-UI-SDK-iOS.git package dependency.
+3. Choose **Up to Next Major Version** starting at `6.0.0` to use the corrected release tag. For future SDK updates, use the latest release tag when its manifest is up to date; otherwise, select **Branch** and enter `main`.
 
 ### Configure Authentication
 1. Open `AuthProvider.m` file.
